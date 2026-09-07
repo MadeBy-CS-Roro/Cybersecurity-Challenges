@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """
 RSA Oracle Binary Search Solver for CTF Challenges.
 
