@@ -1,4 +1,4 @@
-<div align="center">
+
   # 🛡️ Cybersecurity Challenges & CTF Archive
   
   *A comprehensive personal archive of my write-ups, scripts, and solutions for various cybersecurity competitions, Capture The Flag (CTF) events, and hands-on security challenges.*
